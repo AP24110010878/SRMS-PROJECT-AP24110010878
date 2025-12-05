@@ -1,0 +1,3 @@
+1|Alice Johnson|20|85.50
+2|Bob Kumar|21|72.25
+3|Carol Singh|19|91.00
